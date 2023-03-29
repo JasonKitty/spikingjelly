@@ -34,4 +34,4 @@ class DVS346Sign(sjds.NeuromorphicDatasetFolder):
             For example, this function returns ``(128, 128)`` for the DVS128 Gesture dataset.
         :rtype: tuple
         '''
-        return 346, 260
+        return 260, 346
